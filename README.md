@@ -1,3 +1,1 @@
-﻿Testing mathe formulas
-
-$\frac{a}{b}$
+﻿My personal website
