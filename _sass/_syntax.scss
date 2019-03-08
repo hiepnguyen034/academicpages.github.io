@@ -28,8 +28,8 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
-    line-height: 1.8;
+    font-size: $type-size-6;
+    line-height: 1.5;
   }
 }
 
@@ -40,7 +40,6 @@ div.highlighter-rouge, figure.highlight {
 /*
    Solarized Light
    http://ethanschoonover.com/solarized
-
    SOLARIZED HEX      ROLE
    --------- -------- ------------------------------------------
    base01    #586e75  body text / default code / primary content
