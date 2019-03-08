@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics, Earlham College, 2017
+* M.S. in Statistics, Georgetown University, 2019 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2019-Present: Research Assistant
+  * Georgetown University
+  * Supervisor: Professor Mark Meyer, Professor Ed Egan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018-Present: Teaching Assistant
+  * Georgetown University
+  * Courses: Probability Theory, Linear Algebra, Calculus II, Intro to Python for Business
+
+* Summer 2018: Machine Learning Engineer Intern
+  * Cyradar
+
+* Summer 2016: Data Analytics Intern
+  * Misoft JSC
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming: Python, R, SQL, C++, MATLAB, Unix/Linux, Git, LaTeX, HTML, CSS
+Data Science:  pandas, dplyr, ggplot2, matplotlib, numpy, scipy, regex, Hadoop, AWS (EC2, S3, RDS, Redshift)
+Machine Learning: Scikit-learn, TensorFlow, Keras
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
