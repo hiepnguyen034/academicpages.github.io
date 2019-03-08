@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Drug_Test"
+excerpt: "an AI bot that tells if you are on drugs by looking at your face"(https://github.com/hiepnguyen034/Drug-Test)
 collection: portfolio
 ---
 
