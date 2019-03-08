@@ -1,6 +1,6 @@
 ---
 title: "Drug_Test"
-excerpt: "an AI bot that tells if you are on drugs by looking at your face"(https://github.com/hiepnguyen034/Drug-Test)
+excerpt: "an AI bot that tells if you are on drugs by looking at your face"
 collection: portfolio
 ---
 
