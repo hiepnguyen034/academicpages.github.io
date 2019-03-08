@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
+* M.S. in Statistics, Georgetown University, 2019 
 * B.A. in Mathematics, Earlham College, 2017
-* M.S. in Statistics, Georgetown University, 2019 (expected)
+
 
 
 Work experience
