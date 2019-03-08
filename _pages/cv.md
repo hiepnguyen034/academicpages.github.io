@@ -26,6 +26,9 @@ Work experience
 
 * Summer 2018: Machine Learning Engineer Intern - CyRadar
 
+* Fall 2016-Summer 2011: Teaching Assistant - Earlham College
+  * Courses: Calculus II, Elementary Statistics
+
 * Summer 2016: Data Analytics Intern - Misoft JSC
 
   
