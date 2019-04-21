@@ -1,7 +1,7 @@
 ---
 title: '[Notes] Shapes of CNN'
 date: 2019-04-21
-permalink: /posts/convo-notes
+permalink: /posts/2019/04/blog-post-3/
 tags:
    - Convolutional neural network
 ---
