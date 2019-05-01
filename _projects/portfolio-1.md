@@ -1,5 +1,6 @@
 ---
 title: "Drug_Test"
+date: 2019-03-08
 excerpt: "an AI bot that tells if you are on drugs by looking at your face"
 collection: projects
 ---
