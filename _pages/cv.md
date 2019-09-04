@@ -22,7 +22,7 @@ Work experience
   
 * Spring 2019-Summer 2019: Research Assistant - Georgetown University
   
-  > > > Supervisor: Professor Mark Meyer, Professor Ed Egan
+  ​			Supervisor: Professor Mark Meyer, Professor Ed Egan
 * Fall 2018-Summer 2019: Teaching Assistant - Georgetown University
   
   > > > Courses: Probability Theory, Linear Algebra, Calculus II, Intro to Python for Business
