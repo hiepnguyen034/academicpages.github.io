@@ -18,17 +18,22 @@ Education
 
 Work experience
 ======
-* Spring 2019-Present: Research Assistant - Georgetown University
-  * Supervisor: Professor Mark Meyer, Professor Ed Egan
-
-* Fall 2018-Present: Teaching Assistant - Georgetown University
-  * Courses: Probability Theory, Linear Algebra, Calculus II, Intro to Python for Business
-
+* July 2019 - Present: Data Scientist - Logivan Technologies
+  
+* Spring 2019-Summer 2019: Research Assistant - Georgetown University
+  
+* Supervisor: Professor Mark Meyer, Professor Ed Egan
+  
+* Fall 2018-Summer 2019: Teaching Assistant - Georgetown University
+  
+* Courses: Probability Theory, Linear Algebra, Calculus II, Intro to Python for Business
+  
 * Summer 2018: Machine Learning Engineer Intern - CyRadar
 
 * Fall 2016-Summer 2011: Teaching Assistant - Earlham College
-  * Courses: Calculus II, Elementary Statistics
-
+  
+* Courses: Calculus II, Elementary Statistics
+  
 * Summer 2016: Data Analytics Intern - Misoft JSC
 
   
