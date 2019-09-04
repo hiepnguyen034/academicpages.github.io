@@ -42,5 +42,5 @@ Programming: Python, R, SQL, C++, MATLAB, Unix/Linux, Git, LaTeX, HTML, CSS
 
 Data Science:  pandas, dplyr, ggplot2, matplotlib, numpy, scipy, regex, Hadoop, AWS (EC2, S3, RDS, Redshift)
 
-Machine Learning: Scikit-learn, Tensorflow, Keras
+Machine Learning: PyTorch, Tensorflow, Keras, Scikit-learn
 
