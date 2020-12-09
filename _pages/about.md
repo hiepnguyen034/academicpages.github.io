@@ -10,7 +10,9 @@ redirect_from:
 
 Hi! This is Hiep. Welcome to my website. 
 
-I am currently a Data Scientist at [Logivan Technologies](https://www.logivan.com/). My main task here is to deliver an automated pricing system using deep learning. Previously, I was a graduate student in Statistics at Georgetown University. My interests span Bayesian Inference, Deep Learning, and Numerical Optimization. 
+I am currently spending my time on NLP researches, especially ones that involve text embedding and seq2seq models.
+
+I was a Data Scientist at [Logivan Technologies](https://www.logivan.com/). My main task there was to deliver an automated pricing system using deep learning. Previously, I was a graduate student in Statistics at Georgetown University. My interests span Bayesian Inference, Deep Learning, and Numerical Optimization. 
 
 While I do not have a computer science degree, I have spent a non-trivial amount of time coding and studying algorithms to be able to follow my passion for machine learning and data science.
 
