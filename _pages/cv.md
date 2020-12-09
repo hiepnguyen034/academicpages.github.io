@@ -18,11 +18,14 @@ Education
 
 Work experience
 ======
-* July 2019 - Present: Data Scientist - Logivan Technologies
+* July 2020 - Sep 2020: Senior Data Scientist - Waves
+  
+* July 2019 - June 2020: Data Scientist - Logivan Technologies
   
 * Spring 2019-Summer 2019: Research Assistant - Georgetown University
   
   ​			Supervisor: Professor Mark Meyer, Professor Ed Egan
+  
 * Fall 2018-Summer 2019: Teaching Assistant - Georgetown University
   
   ​			Courses: Probability Theory, Linear Algebra, Calculus II, Intro to Python for Business
