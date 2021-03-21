@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* Jan 2021 - Present: Data Scientist - QuantumBlack
+  
 * July 2020 - Sep 2020: Senior Data Scientist - Waves
   
 * July 2019 - June 2020: Data Scientist - Logivan Technologies
