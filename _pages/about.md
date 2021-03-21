@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! This is Hiep. Welcome to my website. 
 
-I am currently a Data Scientist at [QuantumBlack][https://www.quantumblack.com/].
+I am currently a Data Scientist at [QuantumBlack][https://www.quantumblack.com/]
 
 Prior to QB, I was a Data Scientist at [Waves](https://www.crunchbase.com/organization/waves-vietnam-podcasts) and [Logivan Technologies](https://www.logivan.com/). At Waves, I leveraged NLP and Siamese network to develop a podcasts recommendation system. My main task at Logivan was to deliver an automated pricing system using deep learning. 
 
