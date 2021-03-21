@@ -12,7 +12,7 @@ Hi! This is Hiep. Welcome to my website.
 
 I am currently a Data Scientist at [QuantumBlack](https://www.quantumblack.com/).
 
-Prior to QB, I was a Data Scientist at [Waves](https://www.crunchbase.com/organization/waves-vietnam-podcasts) and [Logivan Technologies](https://www.logivan.com/). At Waves, I leveraged NLP and Siamese network to develop a podcasts recommendation system. My main task at Logivan was to deliver an automated pricing system using deep learning. 
+Prior to QB, I was a Data Scientist at [Waves](https://www.crunchbase.com/organization/waves-vietnam-podcasts) and [Logivan Technologies](https://www.logivan.com/). At Waves, I leveraged NLP and Siamese network to develop a podcasts recommendation system. At Logivan, my main task was to deliver an automated pricing system using deep learning. 
 
 I also spent 2 years as a graduate student in Statistics at Georgetown University. My interests in the field span Bayesian Inference, Deep Learning, and Numerical Optimization. 
 
